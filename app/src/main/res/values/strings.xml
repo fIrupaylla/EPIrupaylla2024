@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IrupayllaEP</string>
+    <string name="tvInicio">Iniciar Sesión</string>
+    <string name="textEmail">Email</string>
+    <string name="textPass">Password</string>
+    <string name="botonlogin">Ingresar</string>
+    <string name="title_activity_result">activity_result</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Servicios</string>
+    <string name="menu_gallery">Cotizador</string>
+    <string name="menu_slideshow">Clientes</string>
+    <string name="textheader">Fiorella Irupaylla</string>
+    <string name="subtitulo">fiorella@admin.com</string>
+    <string name="Coti">Cotizador</string>
+    <string name="costo" />
+    <string name="textCosto">Costo</string>
+
+    <string-array name="array_servicios">
+        <item>Cambio de Aceite</item>
+        <item>Mantenimiento Correctivo</item>
+        <item>Alineamiento Direccion</item>
+        <item>Cambio Frenos</item>
+    </string-array>
+
+</resources>
